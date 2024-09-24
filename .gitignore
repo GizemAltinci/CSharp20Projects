@@ -1,0 +1,10 @@
+## Visual Studio proje dosyaları
+.vs/
+bin/
+obj/
+*.user
+*.suo
+
+## Genel sistem dosyaları
+Thumbs.db
+*.log
